@@ -19,6 +19,15 @@ $𝑁𝑜𝑡𝑒$ :
 * Question three: What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the newly opened  trendy restaurant, "Penang Flavours"?
 * How many establishments in each Local Authority area have a hygiene score 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please submit a pull  request or open an issue on the GitHub repository.
+
+## Resources
+* [PyMongo Documentation](https://pymongo.readthedocs.io/en/stable/)
+* [MongoDB Documentation](https://www.mongodb.com/docs/)
+
+
 
 
 
