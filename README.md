@@ -1,4 +1,4 @@
-![food critics](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fda6a9322-e6a6-11e9-bc3e-661ff0438ed9.png?crop=1600%2C900%2C0%2C0&resize=1500)
+![food critics](https://imgc.artprintimages.com/img/print/i-ll-have-the-vegan-new-yorker-cartoon_u-l-pgqpcj0.jpg?artHeight=900&artPerspective=n&artWidth=900&background=fbfbfb)
 # Discovering the UK's Hidden Gems and Meh-dium Eateries: A Scrumptious Adventure!"
 Hey foodies! Join us on an exciting mission for Eat Safe, Love magazine as we uncover the most intriguing and, well, not-so-impressive restaurants across the UK. Get ready to indulge in a flavorsome escapade like never before. Let's dig in! 🍔🍕🍰
 
