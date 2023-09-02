@@ -1,6 +1,6 @@
 ![food critics](https://imgc.artprintimages.com/img/print/i-ll-have-the-vegan-new-yorker-cartoon_u-l-pgqpcj0.jpg?artHeight=900&artPerspective=n&artWidth=900&background=fbfbfb)
 # Discovering the UK's Hidden Gems and Meh-dium Eateries: A Scrumptious Adventure!
-Hey foodies! Join us on an exciting mission for Eat Safe, Love magazine, Performing ETL, creating MongoDB NoSQL database, and analyzing data to uncover the most intriguing and not-so-impressive restaurants across the  UK. Let's dig in! 🍔🍕🍰 111
+Hey foodies! Join us on an exciting mission for Eat Safe, Love magazine, Performing ETL, creating MongoDB NoSQL database, and analyzing data to uncover the most intriguing and not-so-impressive restaurants across the  UK. Let's dig in! 🍔🍕🍰 11
 
 ## Project Overview
 This project involves two main parts: setting up a clean MongoDB database and conducting data analysis.
